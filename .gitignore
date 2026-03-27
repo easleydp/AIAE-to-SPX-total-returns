@@ -1,4 +1,4 @@
 *.code-workspace
 /data
 Temp.py
-
+venv/*
